@@ -1,0 +1,28 @@
+<ShowList>
+    <Movie>
+        <Name>非常完美</Name>
+        <Poster>perfect</Poster>
+        <Director>阴萌</Director>
+        <Actor>范冰冰</Actor>
+        <Type>爱情</Type>
+        <Price>60</Price>
+        <Schedule>
+            <Item>09:00</Item>
+            <Item>13:00</Item>
+        </Schedule>
+    </Movie>
+    <Movie2>
+        <Name>战狼2</Name>
+        <Poster>zhanlan</Poster>
+        <Director>张伟</Director>
+        <Actor>吴京</Actor>
+        <Type>战争</Type>
+        <Price>40</Price>
+        <Schedule>
+            <Item>09:00</Item>
+            <Item>13:00</Item>
+        </Schedule>
+    </Movie2>
+
+    // 省略其他电影
+</ShowList>

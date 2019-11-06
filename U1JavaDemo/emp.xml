@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+
+<employee>
+<name>张三</name>
+<sex>m</sex>
+<age>20</age>
+</employee>
+
+</employees>
